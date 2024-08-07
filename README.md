@@ -1,3 +1,5 @@
+Nota: Debido a que los derechos de autor pertenecen al instituto, no se puede desplegar en su totalidad la aplicacion por lo que se incluye el .env para poder probar todas las funcionalidades en local
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
